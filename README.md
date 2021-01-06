@@ -32,6 +32,15 @@ https://www.tandfonline.com/doi/full/10.1080/17512433.2018.1519391
 
 
 
-## Economics
+# Economics
 
-[Quantitative Easing] (https://www.youtube.com/watch?v=NSW7Yim23c0)
+## Books
+
+End the Fed, Ron Paul
+
+Economics in One Lesson, Henry Hatzlitt
+
+
+# Debt Monetization
+
+[Quantitative Easing](https://www.youtube.com/watch?v=NSW7Yim23c0)
