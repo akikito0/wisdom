@@ -41,6 +41,6 @@ End the Fed, Ron Paul
 Economics in One Lesson, Henry Hatzlitt
 
 
-# Debt Monetization
+## Debt Monetization
 
 [Quantitative Easing](https://www.youtube.com/watch?v=NSW7Yim23c0)
