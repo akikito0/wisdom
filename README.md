@@ -24,8 +24,14 @@ https://www.tandfonline.com/doi/full/10.1080/17512433.2018.1519391
 
 
 
-## YouTube Channels
+### YouTube Channels
 
 [Byteyko Breathing](https://www.youtube.com/watch?v=tKaUEVnducI&t=310s)
 
 [CARS](https://www.youtube.com/watch?v=LGUhVelktk4)
+
+
+
+## Economics
+
+[Quantitative Easing] (https://www.youtube.com/watch?v=NSW7Yim23c0)
