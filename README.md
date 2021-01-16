@@ -20,10 +20,12 @@ Every modern diet that restricts calories and isn't sustainable, because they do
 Lies of chloesterol:
 https://www.tandfonline.com/doi/full/10.1080/17512433.2018.1519391
 
-### EMFs
+### EMFs and Metals
 
 The International Agency for Research on Cancer (IARC) classifies electromagnetic fields (EMFs) as 'possibly carcinogenic' to humans that might transform normal cells into cancer cells. [Source] (https://pubmed.ncbi.nlm.nih.gov/23051584/)
 
+Aluminum, mercury and lead can lead to neurodegeneration, like Alzheimer’s. 
+> Replace aluminum cookware with American Stainless steel, ceramic, clay or borosilicate glass.
 
 
 
