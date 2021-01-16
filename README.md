@@ -3,24 +3,28 @@
 Harmonizing the lost knowledge of our ancestors with the power of modern technology. 
 
 
-## Diet
+## Health
 
-Vitamin A
+### Vitamin A
 Found in beef liver, full-fat diary products
 
 https://www.foundmyfitness.com/episodes/vitamin-a-immune-system
 
-Full-fat products
+### Full-fat products
 
-Good fiber
+### Good fiber
 Barley, whole oats
-
-
 
 Every modern diet that restricts calories and isn't sustainable, because they don't actually want you to get better, they want you 
 
 Lies of chloesterol:
 https://www.tandfonline.com/doi/full/10.1080/17512433.2018.1519391
+
+### Electromanetic 
+
+The International Agency for Research on Cancer (IARC) classifies electromagnetic fields (EMFs) as 'possibly carcinogenic' to humans that might transform normal cells into cancer cells. [Source] (https://pubmed.ncbi.nlm.nih.gov/23051584/)
+
+
 
 
 
@@ -32,9 +36,9 @@ https://www.tandfonline.com/doi/full/10.1080/17512433.2018.1519391
 
 
 
-# Economics
+## Economics
 
-## Books
+### Books
 
 End the Fed, Ron Paul
 
