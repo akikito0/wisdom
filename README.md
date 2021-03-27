@@ -6,7 +6,11 @@ Harmonizing the lost knowledge of our ancestors with the power of modern technol
 ## Health
 
 ### Vitamin A
-Found in beef liver, full-fat diary products
+Vitamin A is a fat-soluble vitamin that plays an essential role in maintaining vision, body growth, immune function and reproductive health.
+
+Peformed vitamin A, also know as retinol, **is only found in animal-sourced foods, such as oily fish, liver, cheese and butter.**
+
+Your body can produce vitamin A from carotenoids found in darkly colored fruits and vegetables, also known as provitamin A. However, about 45% of people carry a genetic mutation that significantly reduces their ability to convert provitamin A into vitamin A (2Trusted Source, 3Trusted Source). 
 
 https://www.foundmyfitness.com/episodes/vitamin-a-immune-system
 
